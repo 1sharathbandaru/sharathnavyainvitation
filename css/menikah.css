@@ -16,16 +16,13 @@ html {
 }
 
 .header-wrapper {
-  padding-bottom: 30px;
 }
 
 .navbar-item {
   line-height: 38px;
   font-weight: 600;
-  text-transform: ;
   letter-spacing: 1px;
   font-size: 1rem;
-  box-shadow:  ;
 }
 
 .navbar-item.is-active{
@@ -38,8 +35,7 @@ html {
 
 
 .hero {
-  background-image: url(https://picsum.photos/id/25/1920/1080);
-  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("https://picsum.photos/id/381/1920/1080") no-repeat;
+  background-image: url(../image/Wedding.jpg);
   background-attachment: fixed;
   background-size: cover;
   color: white;
@@ -125,7 +121,6 @@ html {
 }
 
 .main-content {
-  padding-top: 2rem;
   color: #000; 
   font-family: 'Raleway', sans-serif;
 }
